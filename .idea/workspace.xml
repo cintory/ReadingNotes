@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e81c1b0b-b4f3-4595-b4c1-6ec850083f61" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1415790498">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7052" />
+          <entry key="PLAIN_TEXT" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="17" />
+          <entry key="java" value="7052" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/TestParcel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package1/IPractice6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package2/ObjPractice6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding>
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Practice7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/Parcel5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/Parcel6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package3/Practice6Wrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Singleton" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Destination</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ThinkingInJava/10_InnerClasses/1_CreatingInnerClasses/Parcel1.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/InnerClasses_10/CreatingInnerClasses_1/Parcel1.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/InnerClasses_10/CreatingInnerClasses_1/Parcel2.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/InnerClasses_10/CreatingInnerClasses_1/Practice/Practice1.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/Selector.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/Sequence.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/Practice/Practice1.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/Practice/Practice2.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/Practice/Practice3.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/creating_inner_classes_1/Practice/Practice1.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/DotThis.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/DotNew.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/Parcel3.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/Practice/Practice4.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/Practice/Practice5.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/Contents.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/Destination.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/Parcael4.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/TestParcel.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Practice6.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Practice6/package1/IPractice6.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Package_Practice6/package1/IPractice6.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package1/IPractice6.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package2/ImplPractice6.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package2/ObjPractice6.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package3/Practice6Wrap.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/practice7.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Practice7.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/Parcel5.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/Parcel6.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice10.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice9.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
+              <item name="Inner_classes_in_methods_and_scopes_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
+              <item name="Inner_classes_in_methods_and_scopes_5" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
+              <item name="the_link_to_outer_class_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535894709540" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Practice9">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DotThis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_classes_10.using_this_and_new_3.DotThis" />
+      <module name="ReadingNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_classes_10.using_this_and_new_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parcel6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_classes_10.Inner_classes_in_methods_and_scopes_5.Parcel6" />
+      <module name="ReadingNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_classes_10.Inner_classes_in_methods_and_scopes_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_classes_10.the_link_to_outer_class_2.practice.Practice3" />
+      <module name="ReadingNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_classes_10.the_link_to_outer_class_2.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_classes_10.inner_class_and_upcasing_4.practice.Practice7" />
+      <module name="ReadingNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_classes_10.inner_class_and_upcasing_4.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_classes_10.Inner_classes_in_methods_and_scopes_5.practice.Practice9" />
+      <module name="ReadingNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inner_classes_10.Inner_classes_in_methods_and_scopes_5.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Practice3" />
+      <item itemvalue="Application.DotThis" />
+      <item itemvalue="Application.Practice7" />
+      <item itemvalue="Application.Parcel6" />
+      <item itemvalue="Application.Practice9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practice9" />
+        <item itemvalue="Application.Parcel6" />
+        <item itemvalue="Application.Practice7" />
+        <item itemvalue="Application.DotThis" />
+        <item itemvalue="Application.Practice3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e81c1b0b-b4f3-4595-b4c1-6ec850083f61" name="Default Changelist" comment="" />
+      <created>1535463382170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535463382170</updated>
+      <workItem from="1535463383607" duration="927000" />
+      <workItem from="1535509845607" duration="18000" />
+      <workItem from="1535509909305" duration="251000" />
+      <workItem from="1535551913239" duration="20174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21370000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.32951653" />
+      <window_info anchor="bottom" id="Messages" weight="0.32951653" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32951653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994911" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32951653" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32951653" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/creating_inner_classes_1/Parcel2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/practice/Practice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/practice/Practice3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/creating_inner_classes_1/Parcel1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/creating_inner_classes_1/practice/Practice1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/DotThis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/DotNew.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/Parcel3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/the_link_to_outer_class_2/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-end-line="50" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/practice/Practice4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding>
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/using_this_and_new_3/practice/Practice5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/Contents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/Destination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/Parcel4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/TestParcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Practice6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package1/IPractice6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package3/Practice6Wrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/package_practice6/package2/ObjPractice6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Practice7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/Parcel5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/Parcel6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ReadingNote</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
