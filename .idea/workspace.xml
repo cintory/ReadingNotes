@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e81c1b0b-b4f3-4595-b4c1-6ec850083f61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Factories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Games.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/ServiceFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,65 +33,34 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="45" />
+          <entry key="java" value="52" />
           <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="45" />
+          <entry key="JAVA" value="52" />
           <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10586" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="JAVA" value="12072" />
+          <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="10586" />
-          <entry key="txt" value="14" />
+          <entry key="java" value="12072" />
+          <entry key="txt" value="23" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/Parcel8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding>
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/Parcel10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="32" column="59" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice13.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,6 +69,90 @@
               <folding>
                 <element signature="e#271#272#0" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/Base.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/ServiceFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding>
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Factories.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Games.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+              <folding>
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,59 +185,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+            <state relative-caret-position="120">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
               <folding>
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
                 <element signature="e#380#381#0" expanded="true" />
                 <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/Inner_classes_in_methods_and_scopes_5/practice/Practice9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/practice/Practice7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/Wrapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/inner_class_and_upcasing_4/Contents.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -213,7 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ThinkingInJava/10_InnerClasses/1_CreatingInnerClasses/Parcel1.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/InnerClasses_10/CreatingInnerClasses_1/Parcel1.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/InnerClasses_10/CreatingInnerClasses_1/Parcel2.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/InnerClasses_10/CreatingInnerClasses_1/Practice/Practice1.java" />
@@ -259,6 +271,12 @@
         <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice13.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice14.java" />
         <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice15.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Service.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/ServiceFactory.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation1.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Factories.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation2.java" />
+        <option value="$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Games.java" />
       </list>
     </option>
   </component>
@@ -314,52 +332,7 @@
               <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
               <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
               <item name="anonymous_inner_classes_6" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
-              <item name="creating_inner_classes_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
-              <item name="creating_inner_classes_1" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_class_and_upcasing_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_class_and_upcasing_4" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
-              <item name="Inner_classes_in_methods_and_scopes_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReadingNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReadingNote" type="462c0819:PsiDirectoryNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="inner_classes_10" type="462c0819:PsiDirectoryNode" />
-              <item name="Inner_classes_in_methods_and_scopes_5" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="factory_method_revisited_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,7 +343,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536502142911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536517006097" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -390,20 +363,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice15">
+  <component name="RunManager" selected="Application.Games">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parcel10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner_classes_10.anonymous_inner_classes_6.Parcel10" />
+    <configuration name="Factories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_classes_10.anonymous_inner_classes_6.factory_method_revisited_1.Factories" />
       <module name="ReadingNote" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inner_classes_10.anonymous_inner_classes_6.*" />
+          <option name="PATTERN" value="inner_classes_10.anonymous_inner_classes_6.factory_method_revisited_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,13 +384,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inner_classes_10.anonymous_inner_classes_6.practice.Practice12" />
+    <configuration name="Games" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inner_classes_10.anonymous_inner_classes_6.factory_method_revisited_1.Games" />
       <module name="ReadingNote" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inner_classes_10.anonymous_inner_classes_6.practice.*" />
+          <option name="PATTERN" value="inner_classes_10.anonymous_inner_classes_6.factory_method_revisited_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -497,19 +470,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Parcel10" />
-      <item itemvalue="Application.Practice12" />
       <item itemvalue="Application.Practice13" />
       <item itemvalue="Application.Practice14$HorrorShow" />
       <item itemvalue="Application.Practice15" />
+      <item itemvalue="Application.Factories" />
+      <item itemvalue="Application.Games" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Games" />
+        <item itemvalue="Application.Factories" />
         <item itemvalue="Application.Practice15" />
         <item itemvalue="Application.Practice14$HorrorShow" />
         <item itemvalue="Application.Practice13" />
-        <item itemvalue="Application.Practice12" />
-        <item itemvalue="Application.Parcel10" />
       </list>
     </recent_temporary>
   </component>
@@ -528,7 +501,7 @@
       <workItem from="1535509909305" duration="251000" />
       <workItem from="1535551913239" duration="26549000" />
       <workItem from="1536125607695" duration="7000" />
-      <workItem from="1536470981675" duration="2536000" />
+      <workItem from="1536470981675" duration="4868000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter 6">
       <created>1536072716229</created>
@@ -537,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536072716230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chapter 6 practice">
+      <created>1536502192141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536502192141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30288000" />
+    <option name="totallyTimeSpent" value="32620000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,7 +545,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32951653" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32951653" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994911" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -621,7 +601,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6" />
+    <MESSAGE value="Chapter 6 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 practice" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/creating_inner_classes_1/Parcel2.java">
@@ -834,13 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/AnonymousConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -956,13 +930,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/practice/Practice15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="120">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
           <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
             <element signature="e#380#381#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/ServiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Implementation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Factories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkingInJava/inner_classes_10/anonymous_inner_classes_6/factory_method_revisited_1/Games.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+          <folding>
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
           </folding>
         </state>
       </provider>
